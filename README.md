@@ -1,30 +1,30 @@
 <div align="center">
-  <!-- Header Banner: Animated Dark Emerald Wave with Twinkling Stars -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:064e3b,100:10b981&height=220&section=header&text=Gentha%20Andika%20Pratama&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20Creative%20Technologist&descAlignY=58&descSize=18" width="100%"/>
+  <!-- Header Banner: Animated Dark Emerald Wave with Twinkling Stars & High-Contrast Crisp Typography -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:064e3b,100:10b981&height=220&section=header&text=Gentha%20Andika%20Pratama&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=18&descColor=34d399&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <!-- Typing SVG Animation -->
+  <!-- Dynamic Terminal Typing Animation -->
   <a href="https://github.com/genthaandikaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=Hi+There!+%F0%9F%91%8B+Welcome+to+my+GitHub;Full+Stack+Web+Developer;React+%2B+TypeScript+%2B+Tailwind+CSS;Laravel+%2B+PHP+%2B+MySQL;Crafting+Modern+%26+Clean+Web+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=%3E_Hello%2C+World!+%F0%9F%91%8B;%3E_I%27m+Gentha+Andika+Pratama;%3E_Full+Stack+Web+Developer;%3E_React+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+%E2%80%A2+Laravel;%3E_Building+Modern+%26+Scalable+Digital+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <!-- Visitor Badge & Key Status Badges -->
+  <!-- Quick Status Pill Bar -->
   <img src="https://api.visitorbadge.io/api/visitors?path=genthaandikaa&label=Profile%20Views&labelColor=0f172a&countColor=10b981&style=flat-square" alt="Visitors" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-10b981?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-10b981?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Ecosystem-064e3b?style=flat-square&logo=react&logoColor=10b981" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Architecture-064e3b?style=flat-square&logo=react&logoColor=10b981" alt="Focus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Kediri%2C%20Indonesia-0f172a?style=flat-square&logo=google-maps&logoColor=10b981" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Kediri%2C%20Indonesia%20🇮🇩-0f172a?style=flat-square&logo=googlemaps&logoColor=10b981" alt="Location" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Social Media & Contact Links -->
+  <!-- Connect With Me Buttons -->
   <a href="https://instagram.com/kopiko_1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@kopiko__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -42,19 +42,32 @@
 
 ---
 
-### ⚡ About Me
+### 👨‍💻 Developer Overview & Insights
 
-<p align="left">
-  Hi there! I'm <b>Gentha Andika Pratama</b>, a dedicated <b>Full Stack Web Developer</b> based in Kediri, East Java, Indonesia 🇮🇩. I love crafting modern, performant, and reliable web applications that solve real-world problems. With experience across both frontend interactivity and backend system architecture, I focus on clean code, scalability, and seamless user experiences.
-</p>
-
-- 🚀 **Featured Project:** Architecting & developing [**SiDesKu**](https://github.com/genthaandikaa/SiDesKu) — a comprehensive digital public service & smart village governance platform.
-- 💻 **Frontend Ecosystem:** React 19, TypeScript, Tailwind CSS v4, Next.js, and Vite.
-- ⚙️ **Backend & Database:** Laravel 13, PHP 8.4+, RESTful API Design, and MySQL.
-- 🎨 **Design & Prototyping:** Figma, responsive design, and micro-interaction crafting.
-- 🌱 **Currently Exploring:** Cloud architecture, scalable distributed systems, and performance tuning.
-- 💬 **Ask Me About:** Full-stack development, API integration, modern UI architecture, or best coding practices.
-- 📫 **Reach Me:** Drop a message via [andikap0809@gmail.com](mailto:andikap0809@gmail.com) or on Instagram [@kopiko_1](https://instagram.com/kopiko_1).
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <p>
+        Hi there! I'm <b>Gentha Andika Pratama</b>, a dedicated <b>Full Stack Web Developer</b> based in Kediri, East Java, Indonesia 🇮🇩. I specialize in architecting modern, high-performance web applications and scalable backend systems that solve real-world problems.
+      </p>
+      <ul>
+        <li>🏛️ <b>Featured Engineering:</b> Lead Developer of <a href="https://github.com/genthaandikaa/SiDesKu"><b>SiDesKu</b></a> — Smart Village & Public Service Digitalization System.</li>
+        <li>⚡ <b>Frontend Stack:</b> React 19, TypeScript, Next.js, Tailwind CSS v4, and Vite.</li>
+        <li>⚙️ <b>Backend Stack:</b> Laravel 13, PHP 8.4+, RESTful APIs, MySQL, and Sanctum.</li>
+        <li>🎨 <b>UI/UX Craftsmanship:</b> Figma prototyping, micro-interactions, and accessible responsive design.</li>
+        <li>🌱 <b>Current Exploration:</b> Cloud infrastructure, distributed microservices, and web performance tuning.</li>
+      </ul>
+      <p>
+        💬 <i>"Clean code isn't just written once; it's engineered with passion, precision, and purpose."</i>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://github.com/genthaandikaa">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genthaandikaa&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&border_color=10b981&bg_color=0d1117&title_color=10b981&text_color=94a3b8" width="100%" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,26 +83,17 @@
 
 ---
 
-### 📊 GitHub Analytics & Live Activity
+### 📊 GitHub Live Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Stats Card -->
+  <!-- Overall Stats Card -->
   <a href="https://github.com/genthaandikaa">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=genthaandikaa&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=10b981&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=94a3b8" height="180" alt="Gentha's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=genthaandikaa&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&border_color=10b981&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=94a3b8" height="180" alt="Gentha's GitHub Stats" />
   </a>
   &nbsp;
-  <!-- GitHub Streak Card -->
+  <!-- Consistency Streak Card -->
   <a href="https://github.com/genthaandikaa">
-    <img src="https://streak-stats.demolab.com/?user=genthaandikaa&theme=tokyonight&hide_border=false&border_radius=10&border_color=10b981&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=94a3b8&currStreakLabel=10b981" height="180" alt="Gentha's GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages Used -->
-  <a href="https://github.com/genthaandikaa">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genthaandikaa&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=10b981&bg_color=0d1117&title_color=10b981&text_color=94a3b8" height="165" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=genthaandikaa&theme=tokyonight&hide_border=false&border_radius=12&border_color=10b981&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=94a3b8&currStreakLabel=10b981" height="180" alt="Gentha's GitHub Streak" />
   </a>
 </div>
 
@@ -97,15 +101,15 @@
 
 ---
 
-### 🚀 Featured Work & Highlights
+### 🚀 Featured Highlights
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏛️ <a href="https://github.com/genthaandikaa/SiDesKu">SiDesKu (Smart Village Portal)</a></h3>
-      <p align="center"><i>Platform E-Government & Sistem Informasi Desa Doko</i></p>
+      <p align="center"><i>Platform E-Government & Sistem Informasi Desa Terpadu</i></p>
       <p>
-        Solusi digitalisasi pelayanan publik terpadu: pengajuan surat mandiri, verifikasi keaslian dokumen via QR Code tanda tangan digital, tracking resi surat real-time, transparansi APBDes, dan WhatsApp broadcast otomatis.
+        Solusi digitalisasi pelayanan publik desa: pengajuan surat mandiri, verifikasi keaslian dokumen via QR Code digital signature ber-hash, live tracking resi surat, transparansi APBDes interaktif, dan broadcast bansos.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -115,10 +119,10 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Modern Web Applications</h3>
-      <p align="center"><i>Interactive Portfolios & Scalable Web Systems</i></p>
+      <h3 align="center">💼 Interactive Web Applications</h3>
+      <p align="center"><i>Full-Stack Digital Solutions & Portfolios</i></p>
       <p>
-        Pengembangan aplikasi web berkinerja tinggi dengan antarmuka dinamis, integrasi API modern, animasi transisi yang mulus, serta struktur arsitektur kode yang teruji dan terdokumentasi rapi.
+        Pengembangan aplikasi web berkinerja tinggi dengan antarmuka modern, integrasi API terstandarisasi, animasi transisi yang mulus, serta struktur arsitektur kode yang scalable dan terdokumentasi rapi.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
